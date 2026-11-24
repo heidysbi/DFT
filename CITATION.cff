@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "Si utiliza estos archivos, cite la tesis o el artículo asociado."
+title: "Archivos de entrada DFT (OpenMX 3.9) — AlF3 sobre e intercalado en grafito"
+authors:
+  - family-names: "Betancourt Infante"
+    given-names: "Heidy Stefany"
+    orcid: "https://orcid.org/0009-0002-4797-5457"
+    affiliation: "Instituto de Física del Litoral (IFIS-Litoral, CONICET–UNL)"
+license: CC-BY-4.0
+keywords:
+  - DFT
+  - OpenMX
+  - AlF3
+  - graphite
+  - intercalation
+  - NEB
+preferred-citation:
+  type: article
+  title: "Cooperative adsorption and hindered diffusion induced by AlF3 intercalation in graphite"
+  authors:
+    - family-names: "Betancourt-Infante"
+      given-names: "H. S."
+    - family-names: "Ruano"
+      given-names: "G. D."
+    - family-names: "Bonetto"
+      given-names: "F. J."
+    - family-names: "Rodríguez-Sotelo"
+      given-names: "S. J."
+  journal: "Applied Surface Science"
+  volume: 755
+  start: 168736
+  year: 2027
+  doi: "10.1016/j.apsusc.2026.168736"
