@@ -59,6 +59,8 @@ Reemplazar `DATA.PATH` por la ruta local a `DFT_DATA19` de OpenMX 3.9 y ejecutar
 mpirun -np 32 openmx P1_monomero.dat > P1_monomero.out
 ```
 
+Los archivos se encuentran en `tesis-AlF3-grafito-DFT.zip`; al descomprimirlo se obtiene la carpeta `inputs/`.
+
 ## Licencia
 
 Los archivos se distribuyen bajo la licencia Creative Commons Attribution 4.0 International (CC BY 4.0). Si los utiliza, cite la tesis o el artículo indicado arriba.
